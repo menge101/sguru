@@ -4,6 +4,9 @@ Hello!
 
 This project serves as a home for this work.
 
+### Setup
+[Setup document](./setup.md)
+
 ### Objective:
 
 Design a "Notification Platform" that enables multiple services to send notifications to
